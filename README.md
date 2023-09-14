@@ -8,6 +8,13 @@
 ## About Me
 A passionate Full-Stack developer from New York
 
+
+
+📫 How to reach me dulinagunasekara@gmail.com
+
+⚡ Fun fact I love basketball, Gym and Anime!
+
+
 ## Skills
 - React, Node, Javascript, Redux, Hooks, Express, HTML, and CSS
 
@@ -17,9 +24,5 @@ A passionate Full-Stack developer from New York
 ## Contact Me
 - [Provide links to your social media profiles, email address, or personal website.](https://www.linkedin.com/in/dulina-gunasekara-557aaa231/)
 
-## Visitors
-You can also add a visitor counter using tools like [Visitor Badge](https://visitor-badge.glitch.me/).
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername)
 
 
