@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Dulina Gunasekara
+# i there 👋, i'm Dulina
 
 👨‍💻 Full-Stack Software Developer | 🌍 New York
 🎓 Education: Hunter College
