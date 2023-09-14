@@ -17,11 +17,6 @@ A passionate Full-Stack developer from New York
 ## Contact Me
 - [Provide links to your social media profiles, email address, or personal website.](https://www.linkedin.com/in/dulina-gunasekara-557aaa231/)
 
-## GitHub Stats
-You can embed GitHub stats using tools like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername)
-
 ## Visitors
 You can also add a visitor counter using tools like [Visitor Badge](https://visitor-badge.glitch.me/).
 
