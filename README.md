@@ -18,10 +18,6 @@ A passionate Full-Stack developer from New York
 ## Skills
 - React, Node, Javascript, Redux, Express, HTML, and CSS, C++, Python, MUI, Bootstrap
 
-## Projects
-- Highlight a few of your notable projects with brief descriptions and links to the repositories or live demos.
-
-
 
 Connect with me:
 
