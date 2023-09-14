@@ -2,7 +2,7 @@
 
 # Dulina Gunasekara
 
-👨‍💻 Full-Stack Software Developer | 🌍 Location
+👨‍💻 Full-Stack Software Developer | 🌍 New York
 🎓 Education: Hunter College
 
 ## About Me
