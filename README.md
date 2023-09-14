@@ -4,7 +4,7 @@
   <p>👨‍💻 Full-Stack Software Developer | 🌍 New York</p>
   <p>🎓 Education: Hunter College</p>
   
-  <h2>About Me</h2>
+
   <p>A passionate Full-Stack developer from New York</p>
 </div>
 
