@@ -8,9 +8,11 @@
   <p>A passionate Full-Stack developer from New York</p>
 </div>
 
-📫 How to reach me: [dulinagunasekara@gmail.com](mailto:dulinagunasekara@gmail.com)
+- 💬 Ask me about React, Redux, and AI.
+- 📫 How to reach me: [dulinagunasekara@gmail.com](mailto:dulinagunasekara@gmail.com)
+- ⚡ Fun fact: I love Basketball, Gym, and Anime!
 
-⚡ Fun fact: I love Basketball, Gym, and Anime!
+
 
 ## Skills
 - React, Node, Javascript, Redux, Express, HTML, and CSS, C++, Python, MUI, Bootstrap
