@@ -1,10 +1,12 @@
-# i there 👋, i'm Dulina
-
-👨‍💻 Full-Stack Software Developer | 🌍 New York
-🎓 Education: Hunter College
-
-## About Me
-A passionate Full-Stack developer from New York
+<div align="center">
+  <h1>Hi there 👋, I'm Dulina</h1>
+  
+  <p>👨‍💻 Full-Stack Software Developer | 🌍 New York</p>
+  <p>🎓 Education: Hunter College</p>
+  
+  <h2>About Me</h2>
+  <p>A passionate Full-Stack developer from New York</p>
+</div>
 
 📫 How to reach me: [dulinagunasekara@gmail.com](mailto:dulinagunasekara@gmail.com)
 
