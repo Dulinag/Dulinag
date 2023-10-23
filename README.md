@@ -8,7 +8,7 @@
   <p>A passionate Full-Stack developer from New York</p>
 </div>
 
-- 💬 Ask me about React, Redux, and AI.
+- 💬 Ask me about React, Next.js, and AI.
 - 📫 How to reach me: [dulinagunasekara@gmail.com](mailto:dulinagunasekara@gmail.com)
 - ⚡ Fun fact: I love Basketball, Gym, and Anime!
 
