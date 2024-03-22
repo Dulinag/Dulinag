@@ -1,11 +1,11 @@
 <div align="center">
   <h1>Hi there 👋, I'm Dulina</h1>
   
-  <p>👨‍💻 Full-Stack Software Developer | 🌍 New York</p>
+  <p>👨‍💻 Software Engineer  | 🌍 New York</p>
   <p>🎓 Education: Hunter College</p>
   
 
-  <p>A passionate Full-Stack developer from New York</p>
+  <p>A passionate Software Engineer from New York</p>
 </div>
 
 - 💬 Ask me about React, Next.js, and AI.
