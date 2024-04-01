@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there 👋, I'm Dulina</h1>
   
-  <p>👨‍💻 Software Engineer  | 🌍 New York</p>
+  <p>👨‍💻 Database Engineer  | 🌍 New York</p>
   <p>🎓 Education: Hunter College</p>
   
 
